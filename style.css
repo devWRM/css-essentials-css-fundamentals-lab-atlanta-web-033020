@@ -37,6 +37,7 @@ figure {
 }
 
 #featured-property p {
+  margin: 0 auto;
   width: 800px;
 }
 
