@@ -12,7 +12,9 @@ h1 {
 }
 
 
-
+figure img {
+  text-align: center;
+}
 
 
 nav {
