@@ -31,18 +31,10 @@ figure {
 }
 
 
-figure ~ p {
-  
+#featured property {
+  text-align: center;
   width: 800px;
 }
-
-
-
-figcaption {
-  
-}
-
-
 
 
 #details {
