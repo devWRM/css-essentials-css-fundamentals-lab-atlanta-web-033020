@@ -12,13 +12,13 @@ h1 {
 }
 
 
-figure{
-  display: block;
+nav {
   text-align: center;
 }
 
 
-nav {
+figure{
+  display: block;
   text-align: center;
 }
 
