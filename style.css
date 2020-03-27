@@ -32,7 +32,6 @@ nav a {
 
 figure ~ p {
   text-align: center;
-  float: left;
   width: 800px;
 }
 
